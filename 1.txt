@@ -1,3 +1,4 @@
 file thu nhat
 chinh sua
 tu file 1
+file thu 3
